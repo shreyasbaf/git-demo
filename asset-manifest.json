@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/git-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/git-demo/static/js/main.361b67a1.chunk.js",
+    "main.js.map": "/git-demo/static/js/main.361b67a1.chunk.js.map",
+    "runtime-main.js": "/git-demo/static/js/runtime-main.2b55d830.js",
+    "runtime-main.js.map": "/git-demo/static/js/runtime-main.2b55d830.js.map",
+    "static/js/2.b00ef199.chunk.js": "/git-demo/static/js/2.b00ef199.chunk.js",
+    "static/js/2.b00ef199.chunk.js.map": "/git-demo/static/js/2.b00ef199.chunk.js.map",
+    "static/js/3.21ca4006.chunk.js": "/git-demo/static/js/3.21ca4006.chunk.js",
+    "static/js/3.21ca4006.chunk.js.map": "/git-demo/static/js/3.21ca4006.chunk.js.map",
+    "index.html": "/git-demo/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/git-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b00ef199.chunk.js.LICENSE.txt": "/git-demo/static/js/2.b00ef199.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/git-demo/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b55d830.js",
+    "static/js/2.b00ef199.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.361b67a1.chunk.js"
+  ]
+}
